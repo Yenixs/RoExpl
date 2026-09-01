@@ -15,5 +15,3 @@ elseif AE then
 elseif SE then
   loadstring(game:HttpGet(GamesFolderUrl .. '/Steal%20An%20Egg.lua'))();
 end
-
-https://raw.githubusercontent.com/Yenixs/YenixExploit/refs/heads/main/Games/Steal%20An%20Egg.lua
